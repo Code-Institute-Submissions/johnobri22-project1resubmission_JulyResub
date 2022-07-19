@@ -156,3 +156,33 @@ footer {
       margin: 2rem;
     }
   }
+
+  .heroimageb {
+    height: 500px;
+    background-image: url('../images/brecht.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.heroimagem {
+  height: 500px;
+  background-image: url('../images/meyerhold.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+.heroimageg {
+  height: 500px;
+  background-image: url('../images/poortheatre.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
