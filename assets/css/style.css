@@ -67,11 +67,33 @@ aside {
     margin: 2% 2%;
 }
 
-.container {
-    max-width: 1140px;
+table,
+td {
+    border: 1px solid black;
+}
+
+.classes {
+    background-image: url('../images/amp2.jpg');
+    height:
+        /*600px*/
+        26em;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-  }
+}
+
+.classes div {
+    width: 13em;
+    height: 13em;
+    float: left;
+    border-radius: 50%;
+    text-align: center;
+    margin: 6%;
+    background-color: white;
+}
+
+#wrap {
+    float: left;
+}
+
+.summary {
+    text-align: center;
+}
