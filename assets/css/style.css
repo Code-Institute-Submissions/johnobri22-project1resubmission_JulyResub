@@ -37,3 +37,32 @@ body {
   color: red;
   font-size: 1.5rem;
 }
+
+/*hero image & text */
+.heroimage {
+    height: 500px;
+    background-image: url('../images/act\ hero\ resized.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.herotext {
+    text-align: center;
+    position: relative;
+}
+
+aside {
+    width: 15%;
+    bottom: 60%;
+    right: 35%;
+    float: right;
+    font-style: italic;
+    background-color: yellow;
+    color: red;
+    font-size: 2em;
+    font-weight: 600;
+    margin: 2% 2%;
+}
