@@ -72,17 +72,20 @@ Scrolled down to the GitHub Pages section
 Clicked select a source and then selected “main”
 Clicked “save”
 Scrolled back down to the Github Pages section to the deployed link. And here it is
-https://johnobri22.github.io/love2/
+
 
 **Credits**
 
 *Content*
 
 • The educational text was based on Art of the Actor by Jean Benedetti
+
 • Instructions on how to implement form validation on the Book a Class page was
 taken from the form section in the html section of the course
+
 • The icons in the footer were taken from Font Awesome
 Media
+
 • The photos used on the home and practitioner pages were taken from Google
 Images
 
