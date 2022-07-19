@@ -41,7 +41,7 @@ body {
 /*hero image & text */
 .heroimage {
     height: 500px;
-    background-image: url('../images/act\ hero\ resized.png');
+    background-image: url('../images/actheroresized.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
