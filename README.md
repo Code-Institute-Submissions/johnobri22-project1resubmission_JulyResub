@@ -71,7 +71,7 @@ Selected the Settings
 Scrolled down to the GitHub Pages section
 Clicked select a source and then selected “main”
 Clicked “save”
-Scrolled back down to the Github Pages section to the deployed link. And here it is
+Scrolled back down to the Github Pages section to the deployed link. And here it is https://github.com/johnobri22/project1resubmission
 
 
 **Credits**
