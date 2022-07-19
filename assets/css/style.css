@@ -10,3 +10,30 @@ body {
     font-weight: 300;
     color: black;
 }
+
+.container {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .menu {
+    font-size: 3em;
+    letter-spacing: 5px;
+    color: red;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 2em;
+  margin-top: 2rem;
+  margin-bottom: 0px;
+  color: red;
+  font-size: 1.5rem;
+}
