@@ -80,9 +80,6 @@ Scrolled back down to the Github Pages section to the deployed link. And here it
 
 • The educational text was based on Art of the Actor by Jean Benedetti
 
-• Instructions on how to implement form validation on the Book a Class page was
-taken from the form section in the html section of the course
-
 • The icons in the footer were taken from Font Awesome
 Media
 
