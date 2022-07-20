@@ -86,3 +86,14 @@ Media
 • The photos used on the home and practitioner pages were taken from Google
 Images
 
+WIREFRAME
+
+![IMG_0228](https://user-images.githubusercontent.com/104386384/179961238-8156362b-bdbe-4791-9ba3-bd2282e15cda.PNG)
+![IMG_0229](https://user-images.githubusercontent.com/104386384/179961269-ac14369b-764a-4f92-92be-4ff1faf028f8.jpg)
+![IMG_0230](https://user-images.githubusercontent.com/104386384/179961383-2a6e665b-aa0b-4923-a8e5-33c44109c751.PNG)
+![IMG_0231](https://user-images.githubusercontent.com/104386384/179961411-c8a6413f-fa2c-40b2-abf9-f0cf19b5ac17.JPG)
+![IMG_0232](https://user-images.githubusercontent.com/104386384/179961463-af41d79a-fcf8-44e2-8b6a-2cd52f3d7140.PNG)
+![IMG_0233](https://user-images.githubusercontent.com/104386384/179961574-255fef9e-1989-4373-aac6-49fb49f15016.PNG)
+![IMG_0234](https://user-images.githubusercontent.com/104386384/179961593-5e15222c-8826-436c-a9b1-5398a63f27f6.PNG)
+![IMG_0235](https://user-images.githubusercontent.com/104386384/179961663-11716c08-395c-40f8-8e8d-dda7c2ed304f.JPG)
+
